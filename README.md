@@ -74,7 +74,7 @@ A API oferece as seguintes funcionalidades principais:
 
 ### Clone o repositório:
 
-- git clone https://github.com/seu-usuario/ForumHub.git
+- git clone https://github.com/AfroditeSanliveira/Forum-Hub-Challenge-Back-End
 cd ForumHub
 
 - Configurar o Banco de Dados:
