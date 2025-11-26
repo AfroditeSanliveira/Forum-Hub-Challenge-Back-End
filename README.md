@@ -1,11 +1,11 @@
 <h1 align="center">ForumHub</h1>
 
 
-## *📖 Descrição do Projeto*
+## 📖 Descrição do Projeto
 
 O ForumHub é uma API REST desenvolvida em Java com o framework Spring Boot. O objetivo do projeto é criar um backend robusto para um fórum de discussão, permitindo o gerenciamento de tópicos, usuários e autenticação através de tokens JWT.
 
-## ✨ *Funcionalidades*
+## ✨ Funcionalidades
 A API oferece as seguintes funcionalidades principais:
 
 - Autenticação de Usuários: Autenticação segura com login e senha, retornando um token JWT.
@@ -25,7 +25,7 @@ A API oferece as seguintes funcionalidades principais:
 - Autorização: Todos os endpoints de tópicos são protegidos e requerem um token JWT válido no cabeçalho Authorization.
 
 
-## *🛠️ Tecnologias Utilizadas*
+## 🛠️ Tecnologias Utilizadas
 
 
 - Java: Linguagem de programação.
@@ -47,7 +47,7 @@ A API oferece as seguintes funcionalidades principais:
 - Insomnia: Ferramentas para testar os endpoints da API.
 
 
-## *📁 Estrutura do Projeto*
+## 📁 Estrutura do Projeto
 
 
       src/main/java
@@ -70,7 +70,7 @@ A API oferece as seguintes funcionalidades principais:
       │           └── TokenService.java
       
 
-## *📥 Como Executar*
+## 📥 Como Executar
 
 ### Clone o repositório:
 
@@ -89,7 +89,7 @@ cd ForumHub
 
 - mvn spring-boot:run
 
-## *➡️ Endpoints da API*
+## ➡️ Endpoints da API
 
 - Login (para obter o token JWT):
 
